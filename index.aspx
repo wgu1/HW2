@@ -14,7 +14,7 @@
     
         <br />
         Hourly Wage:<br />
-        <asp:TextBox ID="wage" runat="server"></asp:TextBox>
+        <asp:TextBox ID="hourlyWage" runat="server"></asp:TextBox>
         <br />
         <br />
         Numbers of Hours for this week:<br />
@@ -34,7 +34,7 @@
         <asp:Button ID="Clear" runat="server" Text="Clear" />
         <br />
         <br />
-        <asp:Label ID="result" runat="server"></asp:Label>
+        <asp:Label ID="resultLable" runat="server"></asp:Label>
     
     </div>
     </form>
