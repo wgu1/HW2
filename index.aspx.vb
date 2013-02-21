@@ -42,7 +42,7 @@ Partial Class index
         result = taxedSalary - afterD
 
         'display the result
-        resultLable.text = String.Format("{0:C}", result)
+        resultLable.Text = "Your net pay is " & String.Format("{0:C}", result)
 
     End Sub
 End Class

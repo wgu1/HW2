@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Salary Calculator</title>
+    <link rel="stylesheet" type="text/css" href="styleSheet.css" />
 </head>
 <body>
 
